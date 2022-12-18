@@ -1,0 +1,119 @@
+body {
+    background-color: rgb(2, 2, 70);
+}
+
+h1 {
+    margin: 1em 0 0.5em 0;
+    color: royalblue;
+    font-weight: normal;
+    font-family: 'Ultra', sans-serif;
+    font-size: 100px;
+    text-align: center;
+    line-height: 42px;
+    text-transform: uppercase;
+    text-shadow: 0 6px white;
+}
+
+h3 {
+    color: white;
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+    font-family: monospace;
+}
+
+.main-div {
+    border: 2px solid black;
+    border-color: blue;
+    height: 150px;
+    width: 700px;
+    margin-left: 300px;
+    margin-top: 70px;
+    border-radius: 100px;
+}
+
+.main-div-question {
+    color: white;
+    font-weight: bolder;
+    padding-left: 50px;
+    padding-top: 35px;
+    font-family: monospace;
+    font-size: 20px;
+}
+
+.main-btn-div {
+    border: 2px solid white;
+    height: 300px;
+    width: 700px;
+}
+
+.btn-div {
+    border: 1px solid black;
+    height: 60px;
+    width: 320px;
+    margin-top: 70px;
+    margin-left: 300px;
+    border-color: blue;
+    border-radius: 50px;
+
+}
+
+.first-div-option {
+    color: white;
+    margin-top: -20px;
+    padding-left: 25px;
+    font-size: 10px;
+    font-family: monospace;
+}
+
+.second-input {
+    margin-top: 20px;
+}
+
+.second-div-option {
+    color: white;
+    margin-top: -20px;
+    padding-left: 25px;
+    font-size: 12px;
+    font-family: monospace;
+}
+
+.third-input {
+    margin-top: 20px;
+}
+
+.third-div-option {
+    color: white;
+    margin-top: -20px;
+    padding-left: 25px;
+    font-size: 12px;
+    font-family: monospace;
+}
+
+.four-input {
+    margin-top: 20px;
+}
+
+.four-div-option {
+    color: white;
+    margin-top: -20px;
+    padding-left: 25px;
+    font-size: 12px;
+    font-family: monospace;
+}
+
+button {
+    height: 120px;
+    width: 120px;
+    font-size: 15px;
+    padding-left: 2px;
+    background-color: rgb(28, 28, 160);
+    border: none;
+    color: white;
+    font-weight: bold;
+    font-family: cursive;
+    margin-left: 610px;
+    border-radius: 120px;
+    margin-top: 50px;
+    transition: .9s;
+}
